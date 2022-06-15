@@ -1,0 +1,7 @@
+aiogram
+states
+keyboard
+models
+textwrap
+torch
+transformers
